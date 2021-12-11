@@ -12,7 +12,10 @@ g.girlsName();
 
 
 }
+public void employee() {
+	System.out.println("employee name is bala");
 
+}
 
 
 
