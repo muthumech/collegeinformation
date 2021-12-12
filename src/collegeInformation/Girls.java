@@ -13,7 +13,10 @@ g.girlsName();
 
 }
 
+private void add() {
+	System.out.println("add method");
 
+}
 
 
 
